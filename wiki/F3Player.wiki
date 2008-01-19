@@ -1,0 +1,15 @@
+#F3 Player
+
+=F3 Player=
+
+Description: 
+
+The *F3 Player* have all the mp3 player features.. Next version will include flv playing also.
+
+In this version explored _cryptography_ for registering the software of flash 
+
+Requirements:
+
+
+ * Flash 9 
+ 
